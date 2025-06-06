@@ -1,1 +1,1 @@
-# large_data
+This Python code uses the Matplotlib library to generate a line plot. It visualizes the number of automobile accident deaths over several years, from 1980 up to 2012 (note: the deaths list has fewer entries than years). The plt.plot() function draws the line using blue markers for each data point. The plot is titled "automobile accident deaths by year," with the x-axis labeled "year," and includes a grid for improved readability. Finally, plt.show() displays the created graph.
